@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working As product engineer at reap vision<br>- 🌱 I’m learning new technologies and diving deeper into the MERN stack<br>- 💬 Ask me about JavaScript, React, and Node.js<br>- 📫 Reach me at [rishalmuhammedup@gmail.com](mailto:rishalmuhammedup@gmail.com)
+- 🔭 I’m currently working As product engineer at reap studio<br>- 🌱 I’m learning new technologies and diving deeper into the MERN stack<br>- 💬 Ask me about JavaScript, React, and Node.js<br>- 📫 Reach me at [rishalmuhammedup@gmail.com](mailto:rishalmuhammedup@gmail.com)
 
 
 ## 🌐 Socials:
